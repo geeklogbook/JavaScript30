@@ -1,3 +1,4 @@
 [
-    {"id": "01", "name": "Mario Bross Sounds", "location": "mario_bross_sounds", "image": "projects\\00.demos\\01.mario_bross_sounds.png", "reusable": "No", "url": ""}
+    {"id": "01", "name": "Mario Bros Sounds", "location": "mario_bros_sounds", "image": "projects\\00.demos\\01.mario_bros_sounds.png", "reusable": "No", "url": ""},
+    {"id": "02", "name": "Clock", "location": "clock", "image": "projects\\00.demos\\02.clock.png", "reusable": "No", "url": ""}
 ]
