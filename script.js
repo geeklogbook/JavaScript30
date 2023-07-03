@@ -22,7 +22,6 @@ const createProjectCard = (project) => {
     const name = project.name
     const location = project.location
     const image = project.image
-    const reusable = project.reusable
     const url = project.url
 
 
@@ -32,7 +31,6 @@ const createProjectCard = (project) => {
         </div>
         <div class="info">
             <h2>${name}</h2>
-            <p> Reusable: ${reusable} </p>
             <p> <a href=${url} target="_blank"> Review </a> </p>
         </div>
 
