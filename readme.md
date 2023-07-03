@@ -9,6 +9,10 @@ I've also change the sctructure of the solution:
 - I've added the scripts in a different file.
 - I've created a demo landing page.
 
+# My own solutions
+
+Gallery with my solutions [Javascript in 30](https://geeklogbook.github.io/JavaScript30/)
+
 # Original place of the course.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com) - The author is [@wesbos](https://twitter.com/wesbos)
