@@ -4,5 +4,6 @@
     {"id": "03", "name": "Variables", "location": "css_variables", "image": "projects\\00.demos\\03.css_variables.png", "url": ""},
     {"id": "05", "name": "Flex Gallery", "location": "flex_panel_gallery", "image": "projects\\00.demos\\05.flex_panel_gallery.png",  "url": ""},
     {"id": "06", "name": "Type Ahead", "location": "type_ahead", "image": "projects\\00.demos\\06.type_ahead.png",  "url": ""},
-    {"id": "08", "name": "Fun With Canvas", "location": "fun_with_canvas", "image": "projects\\00.demos\\08.fun_with_canvas.png", "url": ""}
+    {"id": "08", "name": "Fun With Canvas", "location": "fun_with_canvas", "image": "projects\\00.demos\\08.fun_with_canvas.png", "url": ""},
+    {"id": "10", "name": "Checklist", "location": "hold_shift", "image": "projects\\00.demos\\10.hold_shift.png", "url": ""}
 ]
