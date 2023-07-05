@@ -47,5 +47,12 @@
       "location": "hold_shift",
       "image": "projects\\00.demos\\10.hold_shift.png",
       "url": ""
+    },
+    {
+      "id": "11",
+      "name": "Video Player",
+      "location": "video_player",
+      "image": "projects\\00.demos\\11.video_player.png",
+      "url": ""
     }
   ]
