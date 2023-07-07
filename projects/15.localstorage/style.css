@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background: url("oh-la-la.jpeg") center no-repeat;
+  background: url("worldcup.jpeg") center no-repeat;
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -67,7 +67,7 @@ h2 {
 }
 
 .plates input:checked + label:before {
-  content: "🌮";
+  content: "⚽︎";
 }
 
 .add-items {
@@ -78,4 +78,19 @@ h2 {
   padding: 10px;
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.clear-all {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.clear-all:hover {
+  background-color: darkred;
 }

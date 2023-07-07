@@ -61,5 +61,12 @@
       "location": "slide_in_on_scroll",
       "image": "projects\\00.demos\\13.slide_in_on_scroll.png",
       "url": ""
+    },
+    {
+      "id": "15",
+      "name": "Local Storage",
+      "location": "localstorage",
+      "image": "projects\\00.demos\\15.localstorage.png",
+      "url": ""
     }
   ]
