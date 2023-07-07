@@ -54,5 +54,12 @@
       "location": "video_player",
       "image": "projects\\00.demos\\11.video_player.png",
       "url": ""
+    },
+    {
+      "id": "13",
+      "name": "Slide In On Scroll",
+      "location": "slide_in_on_scroll",
+      "image": "projects\\00.demos\\13.slide_in_on_scroll.png",
+      "url": ""
     }
   ]
