@@ -68,13 +68,19 @@
       "location": "localstorage",
       "image": "projects\\00.demos\\15.localstorage.png",
       "url": ""
-    }
-    ,
+    },
     {
       "id": "16",
       "name": "Mouse Move Shadow",
       "location": "mouse_move_shadow",
       "image": "projects\\00.demos\\16.mouse_move_shadow.png",
+      "url": ""
+    },
+    {
+      "id": "17",
+      "name": "Sort Without Articles",
+      "location": "sort_without_articles",
+      "image": "projects\\00.demos\\17.sort_without_articles.png",
       "url": ""
     }
   ]
