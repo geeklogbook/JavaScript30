@@ -69,4 +69,12 @@
       "image": "projects\\00.demos\\15.localstorage.png",
       "url": ""
     }
+    ,
+    {
+      "id": "16",
+      "name": "Mouse Move Shadow",
+      "location": "localstorage",
+      "image": "projects\\00.demos\\16.mouse_move_shadow.png",
+      "url": ""
+    }
   ]
