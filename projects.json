@@ -82,5 +82,12 @@
       "location": "sort_without_articles",
       "image": "projects\\00.demos\\17.sort_without_articles.png",
       "url": ""
+    },
+    {
+      "id": "22",
+      "name": "Follow Along",
+      "location": "follow_along",
+      "image": "projects\\00.demos\\22.follow_along.png",
+      "url": ""
     }
   ]
