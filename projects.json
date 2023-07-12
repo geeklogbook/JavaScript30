@@ -92,9 +92,9 @@
     },
     {
       "id": "23",
-      "name": "",
-      "location": "",
-      "image": "",
+      "name": "Séech Synthesis",
+      "location": "speech_synthesis",
+      "image": "projects\\00.demos\\23.speech_synthesis.png",
       "url": ""
     },
     {
