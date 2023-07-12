@@ -89,5 +89,26 @@
       "location": "follow_along",
       "image": "projects\\00.demos\\22.follow_along.png",
       "url": ""
+    },
+    {
+      "id": "23",
+      "name": "",
+      "location": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": "24",
+      "name": "",
+      "location": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": "25",
+      "name": "Events",
+      "location": "events",
+      "image": "projects\\00.demos\\25.events.png",
+      "url": ""
     }
   ]
