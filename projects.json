@@ -99,9 +99,9 @@
     },
     {
       "id": "24",
-      "name": "",
-      "location": "",
-      "image": "",
+      "name": "Sticky Nav",
+      "location": "sticky_nav",
+      "image": "projects\\00.demos\\24.sticky_nav.png",
       "url": ""
     },
     {
