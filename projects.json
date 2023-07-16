@@ -127,9 +127,9 @@
     },
     {
       "id": "28",
-      "name": "Video Speed Controler",
-      "location": "",
-      "image": "projects\\00.demos\\28..png",
+      "name": "Video Speed Controller",
+      "location": "video_speed_controller",
+      "image": "projects\\00.demos\\28.video_speed_controller.png",
       "url": ""
     },
     {
